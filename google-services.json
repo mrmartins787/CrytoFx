@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719823049996",
+    "project_id": "illapp",
+    "storage_bucket": "illapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719823049996:android:282857f2e5ea61c6b46529",
+        "android_client_info": {
+          "package_name": "com.illapp.illapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719823049996-m5u1n04ovphunqgehcob977meea4pe3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.illapp.illapp",
+            "certificate_hash": "9abac7b56003424ee419001057b5eb2d6915e1f7"
+          }
+        },
+        {
+          "client_id": "719823049996-jn4u5l696hmjgdf6h9fnta4bv7oab37k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Zf7z4H6zqQCn8ZRkh_EOgJB7sL-ucwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719823049996-jn4u5l696hmjgdf6h9fnta4bv7oab37k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
